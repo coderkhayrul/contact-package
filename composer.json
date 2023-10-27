@@ -13,6 +13,6 @@
             "name": "Khayrul Islam Shanto"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
